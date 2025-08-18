@@ -4,6 +4,8 @@ import PlatformIconList from "./PlatformIconList";
 import CriticScore from "./CriticScore";
 import getCroppedImageUrl from "../services/image-url";
 
+
+
 interface Props {
   game: Game;
 }
