@@ -27,9 +27,9 @@ A responsive video game discovery application that helps users explore and disco
 
 ## 📸 Screenshots
 
-[desktop-screenshot](/src/assets/desktop-screenshot.png)
+![Desktop Screenshot](./src/assets/desktop-screenshot.png)
 
-[mobile-screenshot](/src/assets/mobile-screenshot.png)
+![Mobile Screenshot](./src/assets/mobile-screenshot.png)
 
 ## 🚀 Getting Started
 
